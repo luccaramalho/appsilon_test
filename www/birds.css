@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,100&display=swap');
+body { font-family: Lato !important; }
+.body { font-family: Lato !important; }
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { font-family: Lato !important; }
+
+.h3, h3 { font-weight:600;
+  color:darkcyan;
+}
+
+h1 { font-size: 70px}
+
+div.leaflet-popup-content {
+  width:auto !important;
+  height:auto !important;
+  font-family: Lato !important;
+}
+
+.badge {
+  padding: 2px 7px;
+  background-color: cadetblue;
+}
+
+.awesome-marker i { font-size:17px; opacity:60%;}
+
+.main-header .navbar { background-color:darkcyan;  }
+
+.main-header .logo { background-color: cadetblue;}
+
+.main-header .sidebar-toggle:before { color:black }
+
+.box.box-warning { border-top-color: cadetblue;}
+
+.content-wrapper, .right-side { background-color: transparent; }
+
+.shiny-output-error { color:white;}
+
+
+.small-box>.inner { background-color: darkcyan; 
+  height: 250px;
+}
+
+.small-box h3 { color:white; }
+
+.small-box .icon-large { top:80px;  }
+
+hr { margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.btn-default {
+    background-color: cadetblue;
+    color: white;
+    border-color: darkcyan;
+    width:200px;
+    font-weight: 600;
+}
+
+.btn-default:hover {
+  
+  background-color: darkcyan;
+  color:white;
+}
+
+.btn:focus {
+   
+    background-color: cadetblue;
+    color: white;
+}
+
+.btn-default:active {
+  background-color: white;
+}
