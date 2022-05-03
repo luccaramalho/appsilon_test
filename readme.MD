@@ -1,10 +1,12 @@
 # <img src="www/bird_pin_md.png" align="right" alt="" />
+# Bird observations data from Poland
+### Lucca de Farias Ramalho
 
 In this app, you’ll be able to visualize bird species observations on
 map.  
 The data set contains observations only from from Poland.  
 
-<https://luccaramalho.shinyapps.io/biodiversity_observation/>
+### <https://luccaramalho.shinyapps.io/biodiversity_observation/>
 
 # Features
 
