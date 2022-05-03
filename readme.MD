@@ -10,8 +10,6 @@ The data set contains observations only from from Poland.
 
 # Features
 
-------------------------------------------------------------------------
-
 -   Visualize bird species observations on map with detailed information
     and image.
 -   Visualize a timeline of bird species observations.
